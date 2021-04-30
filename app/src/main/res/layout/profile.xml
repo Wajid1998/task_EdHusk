@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="610dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/img"
+        android:layout_weight="1"
+        tools:srcCompat="@tools:sample/avatars" />
+
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:hint="Enter Your Full Name -"
+        android:textSize="20dp"
+        android:textColorHighlight="@color/black"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/updateprofile"
+        android:layout_width="196dp"
+        android:layout_height="67dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="0"
+        android:text="Upload Profile" />
+
+
+</LinearLayout>

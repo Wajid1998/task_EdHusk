@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620652264801",
+    "project_id": "edhusk-task",
+    "storage_bucket": "edhusk-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620652264801:android:78edbd3f4f8ba3edbf5920",
+        "android_client_info": {
+          "package_name": "com.example.edhusk_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620652264801-mph1hfhf7lfii5arhv4fqte4b3uhrf7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPS0DNexr3O8T0v3FGLoMDwNv_dbqyIhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620652264801-mph1hfhf7lfii5arhv4fqte4b3uhrf7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
