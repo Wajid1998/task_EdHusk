@@ -10,7 +10,7 @@ import android.view.MenuItem;
 import com.example.edhusk_task.ui.login.LoginActivity;
 import com.google.firebase.auth.FirebaseAuth;
 
-import static com.example.edhusk_task.R.id.update;
+import static com.example.edhusk_task.R.id.updateprofile;
 
 public class showprofile extends AppCompatActivity {
     FirebaseAuth firebaseAuth;
